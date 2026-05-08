@@ -1,0 +1,6 @@
+pandas>=2.2.3
+PyQt5>=5.15.11
+jos3>=0.5.0
+pythermalcomfort>=3.1.2
+numpy>=2.2.4
+openpyxl>=3.1.5
